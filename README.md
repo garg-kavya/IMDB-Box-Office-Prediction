@@ -1,1 +1,1 @@
-# IMDB Box Office preidction
+# IMDB Box Office Prediction
