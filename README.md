@@ -1,1 +1,1 @@
-# Mini_Project_I
+# IMDB Box Office preidction
